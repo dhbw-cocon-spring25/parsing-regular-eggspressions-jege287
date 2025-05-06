@@ -225,18 +225,18 @@ public class RecursiveDescentRedeggsParser {
 
 	private  range() throws RedeggsParseException {
 
-		//TODO
+		//TODO range
 
 
 	}
 
 	private inhalt() throws RedeggsParseException {
-		//TODO
+		//TODO inhalt
 
 	}
 
 	private  rest() throws RedeggsParseException {
-		//TODO
+		//TODO rest
 
 	}
 
